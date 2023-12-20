@@ -1,1 +1,1 @@
-# faktoriyelHesaplama
+# Faktoriyel Hesaplama methodu
